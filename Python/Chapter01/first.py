@@ -1,0 +1,1 @@
+print ("Hello, world day 01 of learning log")
